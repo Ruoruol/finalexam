@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewBag.Title = "Exam";
+}
+
+<h2>Exam</h2>
+
+@{
+    var name = "盧子若";
+    var message = "姓名 : " + name;
+    var num = "410918982";
+    var message2 = "學號 : " + num;
+}
+
+<div>
+    @message<br />
+    @message2<br />
+    最喜歡的水果<br />
+    @{
+        string[] fruits = { "蘋果", "香蕉", "荔枝", "鳳梨", "苦瓜" };
+        <ol>
+            @foreach (var i in fruits)
+            {
+                <li>@i</li>
+
+            }
+        </ol>
+        @DateTime.Now
+
+    }
+</div>
