@@ -14,7 +14,7 @@ namespace Web410918982_finalexam.Controllers
             return View();
         }
 
-        public ActionResult Music()
+        public ActionResult Music(string name, int? num)
         {
             
             

@@ -84,3 +84,8 @@ D:\Web410918982_finalexam\Web410918982_finalexam\obj\Debug\Web410918982_finalexa
 D:\Web410918982_finalexam\Web410918982_finalexam\obj\Debug\Web410918982_finalexam.csproj.CopyComplete
 D:\Web410918982_finalexam\Web410918982_finalexam\obj\Debug\Web410918982_finalexam.dll
 D:\Web410918982_finalexam\Web410918982_finalexam\obj\Debug\Web410918982_finalexam.pdb
+D:\Web410918982_finalexam\Web410918982_finalexam\bin\EntityFramework.dll
+D:\Web410918982_finalexam\Web410918982_finalexam\bin\EntityFramework.SqlServer.dll
+D:\Web410918982_finalexam\Web410918982_finalexam\bin\EntityFramework.xml
+D:\Web410918982_finalexam\Web410918982_finalexam\bin\EntityFramework.SqlServer.xml
+D:\Web410918982_finalexam\Web410918982_finalexam\bin\zh-Hant\EntityFramework.resources.dll
